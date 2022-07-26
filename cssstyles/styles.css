@@ -1,0 +1,47 @@
+
+
+body {
+
+  background-color: #C2DED1 ;
+}
+
+
+
+h3 {
+
+  color : #4CACBC ;
+}
+
+
+
+h1 {
+
+  color : #243A73 ;
+}
+
+hr {
+
+  border-style: none;
+
+  border-top-style: dotted ;
+
+  border-width: 2px;
+
+}
+h3:hover {
+  color : blue;
+
+}
+
+#dob:hover {
+  color : blue ;
+}
+
+.button:hover {
+
+  border-color: black ;
+}
+
+.sources {
+  line-height: 2;
+}
